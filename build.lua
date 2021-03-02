@@ -15,7 +15,7 @@ checkruns     = 1
 typesetruns   = 4
 
 
--- Upload meta data
+-- Upload meta data (don't forget to run l3build ctan first!)
 
 uploadconfig = {
  pkg = module,
