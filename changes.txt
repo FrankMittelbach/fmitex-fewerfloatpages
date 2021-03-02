@@ -1,0 +1,8 @@
+2021-03-02  Frank Mittelbach  <Frank.Mittelbach@latex-project.org>
+
+	* l3doc-TUB.cls: change some deprecated commands to new names.
+
+	* fewerfloatpages.dtx:
+	Moved to a new home (no other changes)
+
+	https://github.com/FrankMittelbach/fmitex-fewerfloatpages
