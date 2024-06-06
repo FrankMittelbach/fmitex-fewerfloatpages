@@ -26,10 +26,12 @@ fewerfloatpages:  starting with \bx@A
 fewerfloatpages:  --> success: \bx@A \bx@C 
 fewerfloatpages: ----- current float page kept, contains a float
 fewerfloatpages:       with p but no t or b specifier
-[4] [5]
+[4]
+[5]
 fewerfloatpages: PAGE: trying to make a float page
 fewerfloatpages: ----- \@deferlist: \bx@E 
 fewerfloatpages:  starting with \bx@E
 fewerfloatpages:  --> fail
 fewerfloatpages:  --> fail: no float page made
-[6] [7] (fewerfloatpages-009.aux)
+[6]
+[7] (fewerfloatpages-009.aux)

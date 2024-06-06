@@ -2,7 +2,7 @@
 
 \input{regression-test}
 
-\usepackage{lipsum}
+\usepackage[language=english]{lipsum}
 
 \usepackage[trace,nocheck]{fewerfloatpages}
 

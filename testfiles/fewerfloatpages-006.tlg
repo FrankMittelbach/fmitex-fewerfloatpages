@@ -16,4 +16,5 @@ fewerfloatpages: ----- \@deferlist: \bx@B
 fewerfloatpages:  starting with \bx@B
 fewerfloatpages:  --> fail
 fewerfloatpages:  --> fail: no float page made
-[3] [4] (fewerfloatpages-006.aux)
+[3]
+[4] (fewerfloatpages-006.aux)

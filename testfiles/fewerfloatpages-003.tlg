@@ -31,4 +31,6 @@ fewerfloatpages: ----- \@deferlist: \bx@H \bx@I \bx@J
 fewerfloatpages:  starting with \bx@H
 fewerfloatpages:  --> success: \bx@H \bx@I \bx@J 
 fewerfloatpages: ----- current float page kept (contains at least 3 floats)
-[5] [6] [7] (fewerfloatpages-003.aux)
+[5]
+[6]
+[7] (fewerfloatpages-003.aux)
